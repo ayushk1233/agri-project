@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
+sqlmodel
+langdetect
+pydantic
+python-multipart
+# optional extras:
+redis
+qdrant-client
+langchain
+twilio
+eofs
